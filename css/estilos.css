@@ -2,8 +2,44 @@
     font-family:'Playfair Display', serif;
     box-sizing: border-box;
 } 
-h1 {
+.imagen {
 
-    color: brown;
+    margin: auto; 
+    display: block; 
+    border-radius: 50%;
+    width: 200px;
+    margin-bottom: 20px;
+
+
+}
+nav {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 100px;
+}
+.mis_iconos {
+
+    width: 50px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+
+h1 {
+    text-align: center;
+    color:black;
+    font-size: 70px;
+    margin-bottom: 1px;
+}
+h2 {
+    text-align: center;
+    color:gray;
+    font-size: 35px;
+    margin-top: 0px;
+}
+h3 {
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
